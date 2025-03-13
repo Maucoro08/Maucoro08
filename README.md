@@ -1,8 +1,8 @@
-# Hi there 👋, Mauricio Elías Coronado Rodríguez
+# Hola 👋, Soy Mauricio Coronado
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;" />
 
-## &nbsp;***Sobre mí***
+&nbsp;***Sobre mí***
 
 Soy un Ingeniero electronico con experiencia en el desarrollo y liderazgo de proyectos tecnológicos. Especializado en la creación de soluciones robustas y escalables que optimizan procesos y generan valor empresarial.
 
