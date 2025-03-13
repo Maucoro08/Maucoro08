@@ -56,12 +56,3 @@ Soy un Ingeniero electronico con experiencia en el desarrollo y liderazgo de pro
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23141F2E.svg?logo=amazonwebservices&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=white">
 </p>
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maucoro08&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Maucoro08&layout=compact&theme=dark)
-
-
-![footer](https://github.com/Maucoro08/Maucoro08/resource/img/webp/footer.webp)
