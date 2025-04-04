@@ -8,7 +8,7 @@ Soy un Ingeniero electronico con experiencia en el desarrollo y liderazgo de pro
 
 - 🚀 **Áreas de interés:** Desarrollo backend, arquitectura de software, DevOps y soluciones IoT.
 - 🌱 **Actualmente aprendiendo:**
-  - Kubernetes
+  - IaC
 - 👯 **Busco colaborar en proyectos open-source y desafíos de alto impacto.**
 - 💬 **Pregúntame sobre:** Desarrollo backend con Java, Spring Boot, integración de hardware con software y despliegues en entornos Docker.
 - 🎨 **Fuera de la tecnología:** Disfruto leer sobre nuevas tendencias, explorar soluciones innovadoras y compartir conocimientos con la comunidad.
